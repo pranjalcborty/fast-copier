@@ -1,3 +1,5 @@
+(Arguably) The fastest file copier in your system! Choose the appropriate concurrency based on your system and copy your files.
+
 ### Run ClientManager
 ```
 java ClientManager
